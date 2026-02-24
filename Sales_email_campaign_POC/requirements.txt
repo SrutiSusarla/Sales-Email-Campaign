@@ -1,0 +1,11 @@
+# Google Gemini API (Free) - NEW package
+google-genai>=0.1.0
+
+# Streamlit UI
+streamlit>=1.30.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Environment
+python-dotenv>=1.0.0

@@ -1,0 +1,61 @@
+{
+  "status": "pending_approval",
+  "enriched_data": {
+    "company_name": "Kaiser Permanente",
+    "industry": "Healthcare",
+    "location": "USA (California)",
+    "contacts": [
+      {
+        "name": "Greg A. Adams",
+        "title": "Chairman and CEO",
+        "email": "greg.adams@kp.org",
+        "linkedin": "https://www.linkedin.com/in/greg-a-adams-00032b4b/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Diane Comer",
+        "title": "Executive Vice President, Chief Digital and Technology Officer",
+        "email": "diane.comer@kp.org",
+        "linkedin": "https://www.linkedin.com/in/diane-comer-a9159a5/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Maria Parra",
+        "title": "Executive Vice President and Chief Operating Officer, Kaiser Foundation Health Plan and Hospitals",
+        "email": "maria.parra@kp.org",
+        "linkedin": "https://www.linkedin.com/in/maria-parra-b3b42911/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Stephen M. Parodi, MD",
+        "title": "Associate Executive Director, The Permanente Medical Group, Inc. and Executive Vice President, The Permanente Federation",
+        "email": "stephen.parodi@kp.org",
+        "linkedin": "https://www.linkedin.com/in/stephen-parodi-md-a2a1061b/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Bechara Choucair, MD",
+        "title": "Senior Vice President and Chief Health Officer",
+        "email": "bechara.choucair@kp.org",
+        "linkedin": "https://www.linkedin.com/in/becharachoucair/",
+        "phone": "Not Available"
+      }
+    ],
+    "company_info": {
+      "description": "Kaiser Permanente is an integrated managed care consortium based in Oakland, California, providing comprehensive health care services to millions of members across the United States. It operates through three interconnected entities: the Kaiser Foundation Health Plan, Inc.; Kaiser Foundation Hospitals; and the Permanente Medical Groups, functioning as one of the largest not-for-profit health plans in the nation.",
+      "website": "https://healthy.kaiserpermanente.org/",
+      "linkedin": "https://www.linkedin.com/company/kaiser-permanente/"
+    },
+    "recent_news": [
+      "February 20, 2024: Kaiser Permanente partnered with Waymark to scale its 'social care' platform, aiming to address social determinants of health for Medicaid members in California and Georgia by connecting them with essential community resources.",
+      "February 15, 2024: Kaiser Permanente launched KP Thrive, a new digital mental health program using Brightline's virtual behavioral health platform, designed to support young people aged 12-26 and their families.",
+      "November 1, 2023: Kaiser Permanente announced an expanded partnership with Unite Us to further connect members to community-based social services programs across its regions, enhancing its efforts to address social health needs."
+    ],
+    "quality_score": 100
+  },
+  "email": {
+    "subject": "social care scale",
+    "body": "Dear Mr. Adams,\n\nI was very impressed by Kaiser Permanente's recent partnership with Waymark, announced February 20th, to scale your social care platform. Your strategic focus on addressing social determinants of health for Medicaid members by connecting them with essential community resources is a truly commendable step towards comprehensive well-being.\n\nYour commitment to proactive, community-based support aligns perfectly with our expertise in optimizing vital social care programs. Our solutions enhance resource access and track intervention effectiveness across California and Georgia, amplifying your impact on member outcomes.\n\nWould you be open to a brief 15-minute call next week to discuss how we might further support Kaiser Permanente's innovative work in this crucial area?\n\nSincerely,\n\n[My Name]\n[My Title]\n[My Company]",
+    "word_count": 119
+  }
+}

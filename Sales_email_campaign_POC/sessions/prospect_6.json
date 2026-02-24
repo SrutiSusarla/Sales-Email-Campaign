@@ -1,0 +1,61 @@
+{
+  "status": "pending_approval",
+  "enriched_data": {
+    "company_name": "Flipkart",
+    "industry": "E-commerce",
+    "location": "India (Bengaluru)",
+    "contacts": [
+      {
+        "name": "Kalyan Krishnamurthy",
+        "title": "CEO, Flipkart Group",
+        "email": "kalyan.krishnamurthy@flipkart.com",
+        "linkedin": "https://www.linkedin.com/in/kalyan-krishnamurthy-7b587a11/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Suman Saha",
+        "title": "Chief Operating Officer (COO) - Supply Chain",
+        "email": "suman.saha@flipkart.com",
+        "linkedin": "https://www.linkedin.com/in/suman-saha-6772733/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Dharam Singh",
+        "title": "Vice President & Head, Customer Experience & Category Planning",
+        "email": "dharam.singh@flipkart.com",
+        "linkedin": "https://www.linkedin.com/in/dharam-singh-a0680a1/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Prakash Sikaria",
+        "title": "Senior Vice President, Growth & Monetization",
+        "email": "prakash.sikaria@flipkart.com",
+        "linkedin": "https://www.linkedin.com/in/prakashsikaria/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Pratish Kumar",
+        "title": "Chief People Officer",
+        "email": "pratish.kumar@flipkart.com",
+        "linkedin": "https://www.linkedin.com/in/pratishkumar/",
+        "phone": "Not Available"
+      }
+    ],
+    "company_info": {
+      "description": "Flipkart is an Indian e-commerce company headquartered in Bengaluru, India. Founded in 2007, it initially focused on online book sales before expanding into various product categories like electronics, fashion, home essentials, and groceries. It operates an online marketplace and is now majority-owned by Walmart.",
+      "website": "https://www.flipkart.com/",
+      "linkedin": "https://www.linkedin.com/company/flipkart/"
+    },
+    "recent_news": [
+      "May 2024: Flipkart increased its stake in loyalty program company, Ankaboot, acquiring the remaining shares to further strengthen its customer engagement and loyalty initiatives.",
+      "March 2024: Flipkart Group launched its own Unified Payments Interface (UPI) service, 'Flipkart UPI,' in collaboration with Axis Bank, enabling users to make secure payments directly through their bank accounts.",
+      "December 2023: Flipkart expanded its hyperlocal grocery delivery service, 'Flipkart Instant,' to several major cities including Delhi, Gurugram, Bengaluru, Kolkata, and Hyderabad, promising deliveries in 15-30 minutes."
+    ],
+    "quality_score": 100
+  },
+  "email": {
+    "subject": "loyalty program scale",
+    "body": "Dear Mr. Krishnamurthy,\n\nI'm writing to you as an admirer of Flipkart's continued leadership in the e-commerce space.\n\nI noted with great interest Flipkart's recent acquisition of the remaining stake in Ankaboot in May. This strategic move clearly underscores your commitment to elevating customer engagement and loyalty, vital aspects for sustained growth in a competitive market.\n\nOur advanced loyalty optimization platform specializes in maximizing the ROI of such initiatives. We provide deeper personalization and predictive analytics, integrating seamlessly with existing programs. We believe our capabilities could significantly amplify the impact of your Ankaboot investment, driving even greater customer lifetime value and engagement across your ecosystem.\n\nWould you be open to a brief 15-minute call next week to explore how we could support your enhanced loyalty strategy?\n\nSincerely,\n\n[Your Name]\n[Your Title]\n[Your Company]",
+    "word_count": 133
+  }
+}

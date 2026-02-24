@@ -1,0 +1,54 @@
+{
+  "status": "pending_approval",
+  "enriched_data": {
+    "company_name": "Tokopedia",
+    "industry": "E-commerce",
+    "location": "Indonesia (Asia)",
+    "contacts": [
+      {
+        "name": "Melissa Siska Juminto",
+        "title": "President, E-Commerce, GoTo Group (Tokopedia)",
+        "email": "melissa.juminto@tokopedia.com",
+        "linkedin": "https://id.linkedin.com/in/melissajuminto",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Anthony Wijaya",
+        "title": "Chief Technology Officer (CTO), Tokopedia",
+        "email": "anthony.wijaya@tokopedia.com",
+        "linkedin": "https://id.linkedin.com/in/anthonywijaya",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Jacky Tan",
+        "title": "Chief Marketing Officer (CMO), Tokopedia",
+        "email": "jacky.tan@tokopedia.com",
+        "linkedin": "https://id.linkedin.com/in/jackytan1981",
+        "phone": "Not Available"
+      },
+      {
+        "name": "David Hade",
+        "title": "VP Product, Tokopedia",
+        "email": "david.hade@tokopedia.com",
+        "linkedin": "https://id.linkedin.com/in/davidhade",
+        "phone": "Not Available"
+      }
+    ],
+    "company_info": {
+      "description": "Tokopedia is a leading Indonesian e-commerce technology company and online marketplace. It provides a platform for individuals and businesses to buy and sell products, facilitating a wide range of goods and services. Tokopedia is part of GoTo Group, Indonesia's largest digital ecosystem, formed by the merger of Gojek and Tokopedia. As of December 2023, its e-commerce operations in Indonesia are integrated with TikTok Shop under PT Tokopedia.",
+      "website": "https://www.tokopedia.com",
+      "linkedin": "https://www.linkedin.com/company/tokopedia"
+    },
+    "recent_news": [
+      "December 2023: TikTok invested in Tokopedia, integrating TikTok Shop's Indonesia operations into Tokopedia's platform. TikTok now holds a controlling stake in PT Tokopedia, with the combined entity continuing to operate under the Tokopedia brand.",
+      "February 2024: GoTo Group (Tokopedia's parent company) reported its Q4 and Full Year 2023 results, showing improved financial performance and reduced losses, partly attributed to the strategic partnership with TikTok Shop and a focus on profitability for its e-commerce unit.",
+      "January-February 2024: Following the partnership, Tokopedia and TikTok Shop initiated the migration and integration of their platforms in Indonesia, focusing on optimizing user experience for sellers and buyers, including features like live shopping and product discovery within the integrated system."
+    ],
+    "quality_score": 80
+  },
+  "email": {
+    "subject": "tokopedia new scale",
+    "body": "Dear Melissa,\n\nCongratulations on Tokopedia's exciting new chapter with TikTok's significant investment and TikTok Shop Indonesia integration. This strategic move firmly solidifies Tokopedia's e-commerce leadership in the region.\n\nAt [Your Company Name], we empower leading platforms like yours to maximize efficiency and unlock new growth, especially during periods of significant expansion and integration. We understand the complexities in scaling operations, onboarding new merchant ecosystems, and enhancing user experience post-merger.\n\nOur solutions streamline these critical processes, ensuring a seamless transition and accelerating your combined entity's market potential.\n\nWe see a strong synergy with Tokopedia\u2019s ambitious vision. Would you be open to a brief 15-minute call next week to explore how we can support your continued success?\n\nBest regards,\n\n[Your Name]\n[Your Title]\n[Your Company]",
+    "word_count": 123
+  }
+}

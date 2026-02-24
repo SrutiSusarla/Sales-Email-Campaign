@@ -1,0 +1,61 @@
+{
+  "status": "pending_approval",
+  "enriched_data": {
+    "company_name": "Mayo Clinic",
+    "industry": "Healthcare",
+    "location": "USA (Minnesota)",
+    "contacts": [
+      {
+        "name": "Gianrico Farrugia",
+        "title": "President and CEO",
+        "email": "gianrico.farrugia@mayoclinic.org",
+        "linkedin": "https://www.linkedin.com/in/gianrico-farrugia-md-a2182060",
+        "phone": "+1-507-284-2511"
+      },
+      {
+        "name": "Cris Ross",
+        "title": "Chief Information Officer",
+        "email": "cris.ross@mayoclinic.org",
+        "linkedin": "https://www.linkedin.com/in/crisross",
+        "phone": "+1-507-284-2511"
+      },
+      {
+        "name": "Christina Zorn",
+        "title": "Chief Financial Officer",
+        "email": "christina.zorn@mayoclinic.org",
+        "linkedin": "https://www.linkedin.com/in/christina-zorn-3796541",
+        "phone": "+1-507-284-2511"
+      },
+      {
+        "name": "Richard Gray",
+        "title": "Chair, Department of Business Development",
+        "email": "richard.gray@mayoclinic.org",
+        "linkedin": "https://www.linkedin.com/in/richard-j-gray-md-59695015",
+        "phone": "+1-507-284-2511"
+      },
+      {
+        "name": "Sean Dowdy",
+        "title": "Chief Value Officer",
+        "email": "sean.dowdy@mayoclinic.org",
+        "linkedin": "https://www.linkedin.com/in/sean-c-dowdy-md-28b99335",
+        "phone": "+1-507-284-2511"
+      }
+    ],
+    "company_info": {
+      "description": "Mayo Clinic is a nonprofit American academic medical center focused on integrated patient care, research, and education. It comprises a large group of physicians, scientists, and researchers and has major campuses in Rochester, Minnesota; Jacksonville, Florida; and Phoenix/Scottsdale, Arizona. It is globally recognized for its excellence in healthcare and medical innovation.",
+      "website": "https://www.mayoclinic.org",
+      "linkedin": "https://www.linkedin.com/company/mayo-clinic/"
+    },
+    "recent_news": [
+      "April 2024: Mayo Clinic, NTT DATA, and VMware announced a partnership to transform digital healthcare with a new digital care platform.",
+      "March 2024: Mayo Clinic and Mercy announced a collaboration to advance virtual care models.",
+      "January 2024: Mayo Clinic and Google Cloud expanded their collaboration, with Accenture joining, to advance cancer research and patient care using data and AI."
+    ],
+    "quality_score": 100
+  },
+  "email": {
+    "subject": "digital care future",
+    "body": "Dear Mr. Farrugia,\n\nI was very impressed to read about Mayo Clinic's strategic partnership with NTT DATA and VMware in April, focusing on transforming digital healthcare with your new care platform.\n\nThis bold initiative demonstrates Mayo Clinic's unwavering commitment to leading healthcare innovation and patient-centric solutions. We understand the complexities and opportunities in delivering advanced, unified digital care experiences at scale.\n\nOur team specializes in helping organizations like yours further enhance the scalability, security, and patient experience of their digital health ecosystems. We believe our unique expertise could provide significant value as you build out this groundbreaking platform.\n\nI would appreciate the opportunity for a brief 15-20 minute virtual meeting to discuss how our capabilities might complement your impressive digital care vision. Would you be open to connecting sometime next week?\n\nSincerely,\n\n[Your Name]\n[Your Title]\n[Your Company]",
+    "word_count": 138
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": "pending_approval",
+  "enriched_data": {
+    "company_name": "Walmart",
+    "industry": "Retail",
+    "location": "USA (Arkansas)",
+    "contacts": [
+      {
+        "name": "Doug McMillon",
+        "title": "President and CEO",
+        "email": "doug.mcmillon@walmart.com",
+        "linkedin": "https://www.linkedin.com/in/doug-mcmillon-924b2210/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "John David Rainey",
+        "title": "Executive Vice President and Chief Financial Officer",
+        "email": "john.rainey@walmart.com",
+        "linkedin": "https://www.linkedin.com/in/john-david-rainey-1049281a/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Suresh Kumar",
+        "title": "Executive Vice President, Global Chief Technology Officer and Chief Development Officer",
+        "email": "suresh.kumar@walmart.com",
+        "linkedin": "https://www.linkedin.com/in/suresh-kumar-291776/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Donna Morris",
+        "title": "Executive Vice President, Chief People Officer",
+        "email": "donna.morris@walmart.com",
+        "linkedin": "https://www.linkedin.com/in/donnamorris/",
+        "phone": "Not Available"
+      },
+      {
+        "name": "Kathleen McLaughlin",
+        "title": "Executive Vice President and Chief Sustainability Officer",
+        "email": "kathleen.mclaughlin@walmart.com",
+        "linkedin": "https://www.linkedin.com/in/kathleen-mclaughlin-b529a65/",
+        "phone": "Not Available"
+      }
+    ],
+    "company_info": {
+      "description": "Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. Headquartered in Bentonville, Arkansas, it is the world's largest company by revenue and the largest private employer globally, offering a wide array of products and services through its Walmart U.S., Walmart International, and Sam's Club segments.",
+      "website": "https://www.walmart.com",
+      "linkedin": "https://www.linkedin.com/company/walmart/"
+    },
+    "recent_news": [
+      "August 2024: Walmart expanded its financial services offerings by partnering with PayPal and Venmo, allowing customers to cash checks and pay bills using the apps at Walmart MoneyCenters and customer service desks.",
+      "June 2024: Walmart launched 'Bettergoods,' its largest private food brand launch in 20 years, featuring quality, chef-inspired, and budget-friendly food items across various categories.",
+      "May 2024: Walmart announced a strategic partnership with Google Cloud and Deloitte to accelerate its digital transformation journey, leveraging generative AI to enhance operations and customer experiences."
+    ],
+    "quality_score": 100
+  },
+  "email": {
+    "subject": "future financial growth",
+    "body": "Dear Mr. McMillon,\n\nCongratulations on Walmart's recent strategic expansion into financial services through partnerships with PayPal and Venmo, enabling customers to cash checks and pay bills directly at your MoneyCenters. This innovative move further solidifies Walmart\u2019s role as an essential community hub.\n\nAs you enhance these vital services, ensuring seamless operations, robust security, and deep customer insights becomes paramount. Our platform empowers retailers to maximize the efficiency and security of their expanded financial services, turning transaction data into actionable insights. We help leading companies streamline new service integrations, improve customer trust, and unlock valuable data from their payment ecosystems.\n\nI believe our solution could significantly support your new financial offerings, maximizing efficiency and customer satisfaction. Would you be open to a brief 15-minute call next week to explore how we can contribute to Walmart's continued success in this exciting new chapter?\n\nSincerely,\n\n[Your Name]\n[Your Title]\n[Your Company]",
+    "word_count": 148
+  }
+}
